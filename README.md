@@ -7,7 +7,7 @@
 I design and build secure, scalable web applications from end to end, specializing in cloud-native architectures and AI-driven workflows.
 
 > **Architecture & Full-Stack:**
-> I build high-concurrency apps with **FastAPI, Next.js, and WebSockets**, focusing on making things scale without breaking. I (try to) care a lot about the stuff that happens under the hood.
+> I build high-concurrency apps with **FastAPI, React and/or Next.js**, focusing on making things scale without breaking. I care a lot about ensuring the logic under the hood is as polished as the UI.
 
 > **AI & Intelligent Automation:**
 > From **RAG pipelines** and **LLM orchestration** to custom **n8n** workflows, I build systems that actually make sense of unstructured data, turning the mess of raw outputs into the magic of interactive data & dashboards.
