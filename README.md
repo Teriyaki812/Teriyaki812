@@ -3,20 +3,19 @@
   <h3 align="center"><i>"Keep the magic alive"</i></h3>
 </div>
 
-# About Me:
-I design and build secure, scalable web applications from end to end, specializing in cloud-native architectures and AI-driven workflows.
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+I’m Teriyaki, a full-stack and systems engineer focused on building secure, scalable web applications from end to end. I work mostly with cloud-native architectures and AI-driven workflows.
 
-> **Architecture & Full-Stack:**
-> I build high-concurrency apps with **FastAPI, React and/or Next.js**, focusing on making things scale without breaking. I care a lot about ensuring the logic under the hood is as polished as the UI.
+I enjoy building things that scale cleanly, handle real-world constraints, and stay maintainable over time.
 
-> **AI & Intelligent Automation:**
-> From **RAG pipelines** and **LLM orchestration** to custom **n8n** workflows, I build systems that actually make sense of unstructured data, turning the mess of raw outputs into the magic of interactive data & dashboards.
+**These days I’m focused on:**
+- FastAPI, React, Next.js, TypeScript
+- High-concurrency and real-time systems
+- AI integrations such as RAG pipelines and LLM-powered workflows
+- Cloud deployments using Docker and managed platforms
+- Well-scoped projects that are finished and production-ready
 
-> **Infrastructure & Real-Time:**
-> I deploy systems using **Docker** and **Google Cloud Run**. I'm used to the quirks of real-time environments, handling the chaos of session persistence and rate limiting so the system doesn't die of a heart attack.
-
-> **Process Optimization:**
-> If it's repetitive, I automate it (because life is too short). I build browser automation tools and custom management solutions to fix legacy workflows.
+I’m especially interested in the intersection of backend architecture, and user-facing applications, where solid engineering decisions make everything else easier.
 
 **☕ I like coffee btw.**
 
