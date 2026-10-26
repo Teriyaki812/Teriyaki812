@@ -1,25 +1,28 @@
 <div id="header" align="center">
-  <img src="https://i.imgur.com/5cBWVO9.gif" width="100"/>
+  <img src="https://media.tenor.com/h5F7PZhXNisAAAAj/star.gif" width="100"/>
   <h3 align="center"><i>"Keep the magic alive"</i></h3>
 </div>
 
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
-I’m Teriyaki, a full-stack and systems engineer focused on building secure, scalable web applications from end to end. I work mostly with cloud-native architectures and AI-driven workflows.
+---
 
-I enjoy building things that scale cleanly, handle real-world constraints, and stay maintainable over time.
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=1500&pause=100&color=00F0DC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=160&lines=hi+hello!;I'm+Teriyaki%2C+tech+enthusiast+and+maker+of+cool+things" width="100%" />
 
-**These days I’m focused on:**
-- FastAPI, React, Next.js, TypeScript
-- High-concurrency and real-time systems
-- AI integrations such as RAG pipelines and LLM-powered workflows
-- Cloud deployments using Docker and managed platforms
-- Well-scoped projects that are finished and production-ready
+---
 
-I’m especially interested in the intersection of backend architecture, and user-facing applications, where solid engineering decisions make everything else easier.
+**These days I'm focused on:**
+- **Web Development**: Creating useful applications, building APIs, and bringing interactive ideas to life.
+- **Systems Engineering**: Exploring ways to build fast, scalable systems that work smoothly under pressure.
+- **AI Engineering**: Experimenting with RAG pipelines and building helpful tools powered by LLMs.
+- **Cloud & Deployment**: Getting applications up and running with Docker and cloud platforms.
+- **Engineering Practices**: Finding better ways to solve problems, automate tasks, and build reliable software.
 
 **☕ I like coffee btw.**
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=teriyaki812&theme=radical&border_radius=25.5&disable_animations=true&)](https://git.io/streak-stats)
 # Tech Stack:
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=teriyaki812&layout=compact&langs_count=20&disable_animations=true&theme=neon)
+
+
 <div align="left">
   <b>Backend Operations</b><br/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
