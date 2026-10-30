@@ -19,7 +19,7 @@
 **☕ I like coffee btw.**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=teriyaki812&theme=radical&border_radius=25.5&disable_animations=true&)](https://git.io/streak-stats)
-# Tech Stack:
+### Tech Stack:
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=teriyaki812&layout=compact&langs_count=20&disable_animations=true&theme=neon)
 
 
@@ -52,6 +52,8 @@
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GHActions" width="40" height="40"/></a>&nbsp;
 </div>
+
+---
 
 <div align="center">
   <img src="assets/marquee.svg" width="100%" alt="marquee" />
