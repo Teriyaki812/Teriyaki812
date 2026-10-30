@@ -35,15 +35,22 @@
   <br/>
   <b>Frontend & UI</b><br/>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="NextJS" width="40" height="40"/></a>&nbsp;
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="40" height="40"/></a>&nbsp;<br/>
-
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" title="Tailwind CSS" alt="Tailwind" width="40" height="40"/></a>&nbsp;<br/>
+  
   <br/>
   <b>Databases, Cloud & DevOps</b><br/>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Postgres" width="40" height="40"/></a>&nbsp;
   <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/></a>&nbsp;
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/></a>&nbsp;
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GHActions" width="40" height="40"/></a>&nbsp;
+</div>
+
+<div align="center">
+  <img src="assets/marquee.svg" width="100%" alt="marquee" />
 </div>
